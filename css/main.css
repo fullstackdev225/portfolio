@@ -11859,5 +11859,8 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
 
 /*# sourceMappingURL=main.css.map */
