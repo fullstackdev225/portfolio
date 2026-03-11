@@ -11872,4 +11872,17 @@ body {
   padding: 5px;
 }
 
+@media screen and (max-width: 768px) {
+  #introduce .i-row {
+    flex-direction: column;
+    align-items: center;
+  }
+  #introduce .i-row .i-col {
+    margin: 5px;
+  }
+  #introduce .i-row .i-col img {
+    width: 350px;
+  }
+}
+
 /*# sourceMappingURL=main.css.map */
